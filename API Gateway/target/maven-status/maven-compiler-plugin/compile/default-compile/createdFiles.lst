@@ -1,0 +1,5 @@
+com\microservices\apigateway\auth\JwtConfig.class
+com\microservices\apigateway\auth\JwtUtil.class
+com\microservices\apigateway\auth\JwtAuthFilter.class
+com\microservices\apigateway\auth\SecurityConfig.class
+com\microservices\apigateway\ApiGatewayApplication.class

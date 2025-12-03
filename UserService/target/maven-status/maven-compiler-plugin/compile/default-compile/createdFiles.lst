@@ -1,0 +1,3 @@
+com\microservices\userservice\feign\OrderClient.class
+com\microservices\userservice\controller\UserController.class
+com\microservices\userservice\UserServiceApplication.class
